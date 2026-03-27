@@ -1,16 +1,12 @@
-# A-10 Warthog Ground Attack Simulator
+# BrendanJamesLynskey — Projects
+
+## A-10 Warthog Ground Attack Simulator
 
 A browser-based flight combat simulator featuring the A-10 Thunderbolt II (Warthog).
 
-## Projects
-
-- [PlaneForge](https://github.com/BrendanJamesLynskey/PlaneForge) — Browser-based 3D parametric model aircraft designer for FDM 3D printing
-
-## Play
-
 [Play the game here](https://brendanjameslynskey.github.io/JW/)
 
-## Controls
+### Controls
 
 | Key | Action |
 |-----|--------|
@@ -25,3 +21,9 @@ A browser-based flight combat simulator featuring the A-10 Thunderbolt II (Warth
 | Enter | GAU-8 Avenger |
 | 1 | AGM-65 Maverick |
 | 2 | Hydra Rockets |
+
+## PlaneForge
+
+A browser-based 3D parametric model aircraft designer, optimised for FDM 3D printing on the Ender-3 V2 Neo. Adjust fuselage, wings, tail, canopy, engines, and landing gear with real-time 3D preview, then export watertight STL files ready for slicing.
+
+[View on GitHub](https://github.com/BrendanJamesLynskey/PlaneForge)
