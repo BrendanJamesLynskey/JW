@@ -2,6 +2,10 @@
 
 A browser-based flight combat simulator featuring the A-10 Thunderbolt II (Warthog).
 
+## Projects
+
+- [PlaneForge](https://github.com/BrendanJamesLynskey/PlaneForge) — Browser-based 3D parametric model aircraft designer for FDM 3D printing
+
 ## Play
 
 [Play the game here](https://brendanjameslynskey.github.io/JW/)
