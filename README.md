@@ -27,3 +27,9 @@ A browser-based flight combat simulator featuring the A-10 Thunderbolt II (Warth
 A browser-based 3D parametric model aircraft designer, optimised for FDM 3D printing on the Ender-3 V2 Neo. Adjust fuselage, wings, tail, canopy, engines, and landing gear with real-time 3D preview, then export watertight STL files ready for slicing.
 
 [View on GitHub](https://github.com/BrendanJamesLynskey/PlaneForge)
+
+## UK Railways & Trains Series
+
+A 7-part interactive presentation series on British railways for curious minds: physics, 200 years of history, the modern UK fleet, signalling, automation, self-driving trains, and the digital future. Real photos, simulations, and links throughout.
+
+[Read the series here](https://brendanjameslynskey.github.io/UK_Railways_Trains_Series/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/UK_Railways_Trains_Series)
