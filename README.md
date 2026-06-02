@@ -34,9 +34,9 @@ A 7-part interactive presentation series on British railways for curious minds: 
 
 [Read the series here](https://brendanjameslynskey.github.io/UK_Railways_Trains_Series/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/UK_Railways_Trains_Series)
 
-## Airedale Line — Class 333 Driver Simulator
+## Yorkshire Train Simulator
 
-A browser-based train driver simulator for the Airedale and Wharfedale lines in West Yorkshire. v1 covers the full Leeds → Skipton service (10 stations, 41.8 km) driving a British Rail Class 333 EMU. Procedural scenery, synthesised audio, and touch controls for mobile.
+A browser-based train driver simulator covering passenger lines in West Yorkshire. Pick the route (Leeds → Skipton Airedale Line, 11 stations 41.8 km; or Shipley → Ilkley Wharfedale branch, 7 stations 17.0 km) and the unit (Class 333 or Class 331/0). Load custom lines from a JSON file or URL. Procedural scenery, synthesised audio, and touch controls for mobile.
 
 [Play the game here](https://brendanjameslynskey.github.io/Airedale-Wharfedale-Sim/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Airedale-Wharfedale-Sim)
 
@@ -56,3 +56,9 @@ A browser-based train driver simulator for the Airedale and Wharfedale lines in 
 | L | Headlights |
 | V | Wipers |
 | P / Esc | Pause |
+
+## Yorkshire Line Editor
+
+A graphical 2D plan-view editor for the Yorkshire Train Simulator. Drag stations, bridges, tunnels, viaducts, mills, river points and speed-limit markers onto the canvas; the track curves through the stations and feature / limit / river markers snap to the track. Export downloads a JSON file that loads directly into the sim's LOAD FROM FILE… or LOAD FROM URL… menu. Layouts auto-save to local storage between sessions.
+
+[Use the editor here](https://brendanjameslynskey.github.io/Yorkshire-Line-Editor/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Yorkshire-Line-Editor)
