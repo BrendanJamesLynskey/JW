@@ -65,6 +65,6 @@ A graphical 2D plan-view editor for the Yorkshire Train Simulator. Drag stations
 
 ## UK Railtour Manager
 
-A browser-based management tycoon in which you run a British charter railtour company. Buy preserved steam locomotives and heritage diesels, pair them with carriage sets, and run excursions over the great scenic lines of Britain — the Settle & Carlisle, the West Highland Line, the Dawlish sea wall and more — managing condition, reputation and cash until you're named Railtour Operator of the Year. Single self-contained HTML file; progress auto-saves in the browser.
+A browser-based management tycoon in which you run a British charter railtour company. Buy from 21 preserved steam locomotives and heritage diesels — from the Black Five to Flying Scotsman, the SR Merchant Navy to the Class 55 Deltic — repaint them into period liveries, pair them with carriage sets, and run excursions over the great scenic lines of Britain (the Settle & Carlisle, the West Highland Line, the Dawlish sea wall and more), managing condition, reputation and cash until you're named Railtour Operator of the Year. Single self-contained HTML file; progress auto-saves in the browser.
 
 [Play the game here](https://brendanjameslynskey.github.io/UK-Railtour-Manager/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/UK-Railtour-Manager)
