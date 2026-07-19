@@ -62,3 +62,9 @@ A browser-based train driver simulator covering passenger lines in West Yorkshir
 A graphical 2D plan-view editor for the Yorkshire Train Simulator. Drag stations, bridges, tunnels, viaducts, mills, river points and speed-limit markers onto the canvas; the track curves through the stations and feature / limit / river markers snap to the track. Export downloads a JSON file that loads directly into the sim's LOAD FROM FILE… or LOAD FROM URL… menu. Layouts auto-save to local storage between sessions.
 
 [Use the editor here](https://brendanjameslynskey.github.io/Yorkshire-Line-Editor/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Yorkshire-Line-Editor)
+
+## UK Railtour Manager
+
+A browser-based management tycoon in which you run a British charter railtour company. Buy preserved steam locomotives and heritage diesels, pair them with carriage sets, and run excursions over the great scenic lines of Britain — the Settle & Carlisle, the West Highland Line, the Dawlish sea wall and more — managing condition, reputation and cash until you're named Railtour Operator of the Year. Single self-contained HTML file; progress auto-saves in the browser.
+
+[Play the game here](https://brendanjameslynskey.github.io/UK-Railtour-Manager/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/UK-Railtour-Manager)
