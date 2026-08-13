@@ -68,3 +68,34 @@ A graphical 2D plan-view editor for the Yorkshire Train Simulator. Drag stations
 A browser-based management tycoon in which you run a British charter railtour company. Buy from 21 preserved steam locomotives and heritage diesels — from the Black Five to Flying Scotsman, the SR Merchant Navy to the Class 55 Deltic — repaint them into period liveries, pair them with carriage sets, and run excursions over the great scenic lines of Britain (the Settle & Carlisle, the West Highland Line, the Dawlish sea wall and more), managing condition, reputation and cash until you're named Railtour Operator of the Year. Single self-contained HTML file; progress auto-saves in the browser.
 
 [Play the game here](https://brendanjameslynskey.github.io/UK-Railtour-Manager/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/UK-Railtour-Manager)
+
+## RC Flight Line
+
+A browser radio-control model aircraft simulator. You stand on the flight line with a transmitter and fly the model from the pilot's viewpoint, the way RC is actually flown. Five models (trainer, 3D aerobat, Spitfire, 2.9 m sailplane, 90 mm EDF jet), four flying sites, and five events including a six-gate pylon race and scored circuits. The flight model is blade-element — every surface is a panel with its own airflow — so the stall, tip stall, torque roll, adverse yaw and ground effect fall out of the geometry. Thermals, ridge lift, gusts and a radio link that fails at range. Two-player split screen with a pair of Logitech F310 pads (X or D mode), keyboard, or on-screen sticks on a phone. Hand-written WebGL in one file; tuned to hold 60 fps on a Raspberry Pi 5.
+
+[Fly it here](https://brendanjameslynskey.github.io/RC-Flight-Line/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/RC-Flight-Line)
+
+### Controls
+
+| Gamepad (F310) | Action |
+|-----|--------|
+| Left stick | Throttle / rudder (Mode 2) |
+| Right stick | Elevator / ailerons (Mode 2) |
+| A | New model on the line |
+| B | Throttle cut |
+| X | Cycle camera — pilot, chase, onboard, fly-by |
+| Y | Dual rate |
+| LB / RB | Zoom out / in |
+| D-pad | Trims |
+| Back / Start | Pause / restart |
+
+| Key | Action |
+|-----|--------|
+| ↑ / ↓ | Elevator |
+| ← / → | Ailerons |
+| A / D | Rudder |
+| W / S | Throttle |
+| C | Camera |
+| R | New model |
+| Space | Throttle cut |
+| P / Esc | Pause |
