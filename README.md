@@ -99,3 +99,9 @@ A browser radio-control model aircraft simulator. You stand on the flight line w
 | R | New model |
 | Space | Throttle cut |
 | P / Esc | Pause |
+
+## Cress Farming
+
+How to build a working cress combine harvester, and how to convince a parent it's a good idea. A small foam-board machine rolls on rails beside a tray of home-grown cress. A wheel-driven paddle reel sweeps the cress onto a plastic scissor-action cutter bar, driven through a crank and pitman arm by a 6 V N20 gear motor, and the cut cress slides up a ramp into a tank. The presentation covers how real combines work, colour diagrams and cutting templates, a shopping list, six illustrated build stages, a fuse / switch / hold-to-run wiring diagram and troubleshooting. It adds a safety plan and seven upgrades: adjustable cutting height, speed dial, self-driving with an automatic end-of-row stop, wider header, 3D-printed cutter and conveyor feeder. There is also an interactive cutter-bar simulator. The PDF report contains all of it, plus a summary for parents and a pre-run sign-off checklist.
+
+[Read the presentation here](https://brendanjameslynskey.github.io/Cress_Farming/) &middot; [Download the PDF report](https://github.com/BrendanJamesLynskey/Cress_Farming/blob/main/Cress_Farming.pdf) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Cress_Farming)
