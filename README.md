@@ -28,6 +28,12 @@ A browser-based 3D parametric model aircraft designer, optimised for FDM 3D prin
 
 [View on GitHub](https://github.com/BrendanJamesLynskey/PlaneForge)
 
+## CoasterForge
+
+A browser-based 3D parametric roller-coaster designer, optimised for FDM 3D printing on the Ender-3 V2 Neo. Pick a layout — Wild Mouse, Out & Back, Looper (vertical loop + corkscrew), or Family Coaster — and it builds the full ride: lift hill, drops, banked turns, brakes, and generates support legs sized from a simulated speed/G-force profile along the track. Export cuts the whole model into printer-bed-sized pieces with sleeve connectors for glue-up.
+
+[Design a coaster here](https://brendanjameslynskey.github.io/CoasterForge/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/CoasterForge)
+
 ## UK Railways & Trains Series
 
 A 7-part interactive presentation series on British railways for curious minds: physics, 200 years of history, the modern UK fleet, signalling, automation, self-driving trains, and the digital future. Real photos, simulations, and links throughout.
