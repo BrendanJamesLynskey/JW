@@ -111,3 +111,16 @@ A browser radio-control model aircraft simulator. You stand on the flight line w
 How to build a working cress combine harvester, and how to convince a parent it's a good idea. A small foam-board machine rolls on rails beside a tray of home-grown cress. A wheel-driven paddle reel sweeps the cress onto a plastic scissor-action cutter bar, driven through a crank and pitman arm by a 6 V N20 gear motor, and the cut cress slides up a ramp into a tank. The presentation covers how real combines work, colour diagrams and cutting templates, a shopping list, six illustrated build stages, a fuse / switch / hold-to-run wiring diagram and troubleshooting. It adds a safety plan and seven upgrades: adjustable cutting height, speed dial, self-driving with an automatic end-of-row stop, wider header, 3D-printed cutter and conveyor feeder. There is also an interactive cutter-bar simulator. A seventh part converts a Korody RC 1:24 combine instead: the cutter clips onto the toy's head mount, and its 3 V N20 is wired to the toy's drive motor through a fuse and a diode, so it cuts only while you drive forward. The PDF report contains all of it, plus a summary for parents and a pre-run sign-off checklist.
 
 [Read the presentation here](https://brendanjameslynskey.github.io/Cress_Farming/) &middot; [Download the PDF report](https://github.com/BrendanJamesLynskey/Cress_Farming/blob/main/Cress_Farming.pdf) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Cress_Farming)
+
+## Pi Platformer
+
+A 2D platform game in which you drive a blue steam locomotive along the railway through five levels of rising difficulty: pits and spikes, a chain of girder bridges over a viaduct, a climb up a mountain pass, and a finale with a low tunnel and single-square bridges. Signals are checkpoints that turn green as you pass, and every level counts its coins. It is written in plain JavaScript on KAPLAY and Vite to be read and changed by a young programmer: every tunable number sits in one `config.js`, levels are drawn as ASCII maps, and a checker script proves that each level can be finished and every coin reached. Built for a Raspberry Pi 5 and a Logitech F310 in X mode, played from Chromium pointed at a dev server on another machine, and published to GitHub Pages on every push. A written brief for a follow-on train simulator, built the same way, lives in the repo.
+
+[Play it here](https://brendanjameslynskey.github.io/Pi-Platformer/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Pi-Platformer) &middot; [Train simulator brief](https://github.com/BrendanJamesLynskey/Pi-Platformer/blob/main/docs/directions_train_simulator.md)
+
+### Controls
+
+| Gamepad (F310, X mode) | Keyboard | Action |
+|-----|-----|--------|
+| Left stick / D-pad | ← / → or A / D | Drive left and right |
+| A | Space / ↑ | Jump (tap for a hop, hold for a big jump); also start and next level |
