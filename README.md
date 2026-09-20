@@ -124,3 +124,25 @@ A 2D platform game in which you drive a blue steam locomotive along the railway 
 |-----|-----|--------|
 | Left stick / D-pad | ← / → or A / D | Drive left and right |
 | A | Space / ↑ | Jump (tap for a hop, hold for a big jump); also start and next level |
+
+## Class 47 Cab Simulator
+
+A first-person British diesel driving simulator: you sit in the cab of Class 47 locomotive 47790, pulling a railtour along a line of open country. The cab is built from simple shapes, with a working speedometer, brake pipe and cylinder gauges and ammeter, and power, brake and reverser levers that move as you push them. Power and brake are levers, not buttons: the right trigger raises the power handle, the right bumper lowers it, the left trigger applies the brake and the left bumper releases it, and each handle stays where you leave it. The train model is a one-dimensional physics simulation with slow air brakes, so you have to brake early: 60 mph to a stop takes about 600 m. The countryside is generated from a seeded random number generator in 100 m chunks built ahead of the train, with fields, hedges, drystone walls, woods, farms, livestock, telegraph poles and mileposts, under a sky with haze, and the route is plain data that a beginner can edit. It is written in plain JavaScript on Three.js and Vite, with no image, model or sound files, to be read and changed by a young programmer. Built for a Raspberry Pi 5 and a Logitech F310 in X mode, played from Chromium pointed at a dev server on another machine, and published to GitHub Pages on every push. Work in progress: the village, town, stations, signals and sound are still to come.
+
+[Play it here](https://brendanjameslynskey.github.io/Class-47-Cab-Sim/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Class-47-Cab-Sim)
+
+### Controls
+
+| Gamepad (F310, X mode) | Keyboard | Action |
+|-----|-----|--------|
+| RT (right trigger) | ↑ / W | More power |
+| RB (right bumper) | ↓ / S | Less power |
+| LT (left trigger) | ← / A | More brake |
+| LB (left bumper) | → / D | Less brake |
+| D-pad up / down | F / R | Reverser: Forward, Neutral, Reverse (only when stopped) |
+| Back | Space | Emergency brake |
+| A | H / J | Horn (sound to come) |
+| X / Y | L / V | Headlights / wipers |
+| Left stick | Shift + arrows, or mouse drag | Look around the cab |
+| R3 (stick click) | C | Look straight ahead |
+| Start | P / Esc | Pause |
