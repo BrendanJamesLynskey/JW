@@ -75,6 +75,12 @@ A browser-based management tycoon in which you run a British charter railtour co
 
 [Play the game here](https://brendanjameslynskey.github.io/UK-Railtour-Manager/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/UK-Railtour-Manager)
 
+## Heritage Railway Manager
+
+A browser-based management tycoon in which you run a preserved heritage railway in the north of England: the fictional Ravensgill & Highmoor Railway, 14 miles of single line up a Pennine dale from a main-line junction, over Brackenby Viaduct and through Highmoor Tunnel to a moorland terminus. Timetable the normal service by giving each locomotive its departure times; the single line has passing loops, so a minute-by-minute dispatcher holds trains for crossings and a train graph shows where they wait. Book steam and diesel galas (hire guest engines such as Flying Scotsman or a Deltic), beer & music festivals, 1940s weekends and Santa specials on the events calendar. Look after the volunteers who crew every train, overhaul worn locos in the works, and build new loops, a café and a turntable. An animated line map replays each day with the trains moving. Single self-contained HTML file with SVG graphics, so it runs smoothly in Chromium on a Raspberry Pi 5; progress auto-saves in the browser.
+
+[Play the game here](https://brendanjameslynskey.github.io/Heritage-Railway-Manager/) &middot; [View on GitHub](https://github.com/BrendanJamesLynskey/Heritage-Railway-Manager)
+
 ## RC Flight Line
 
 A browser radio-control model aircraft simulator. You stand on the flight line with a transmitter and fly the model from the pilot's viewpoint, the way RC is actually flown. Five models (trainer, 3D aerobat, Spitfire, 2.9 m sailplane, 90 mm EDF jet), four flying sites, and five events including a six-gate pylon race and scored circuits. The flight model is blade-element — every surface is a panel with its own airflow — so the stall, tip stall, torque roll, adverse yaw and ground effect fall out of the geometry. Thermals, ridge lift, gusts and a radio link that fails at range. Two-player split screen with a pair of Logitech F310 pads (X or D mode), keyboard, or on-screen sticks on a phone. Hand-written WebGL in one file; tuned to hold 60 fps on a Raspberry Pi 5.
